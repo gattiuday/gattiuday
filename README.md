@@ -1,20 +1,20 @@
-# Hi there, I'm Uday Gatti! 👋
+# Uday Gatti
 
-### 📊 Data Analyst & Full Stack Developer
+### Data Analyst & Full Stack Developer
 
 I am a Data & Supply Chain Analyst with a strong background in Computer Science, currently building digital solutions at the **Ecological Servants Project**. I specialize in transforming raw data into strategic decision-making tools and developing scalable web applications.
 
-- 🔭 I’m currently working as a **Data Analysis & Research Intern** at [EcoServants](https://ecoservants.com)
-- 🎓 **MS in Analytics and Systems** (University of Bridgeport) | **BE in Computer Science**
-- 💼 Ex-Supply Chain Analyst at **Gran Trade Inc**
-- 💬 Ask me about **Data Analytics, Machine Learning, Supply Chain Optimization, and Full Stack Dev**
-- 📫 Reach me at: **gattiuday@gmail.com**
+- **Current Role**: Data Analysis & Research Intern at [EcoServants](https://ecoservants.com)
+- **Education**: MS in Analytics and Systems (University of Bridgeport) | BE in Computer Science
+- **Experience**: Supply Chain Analyst at Gran Trade Inc
+- **Focus**: Data Analytics, Machine Learning, Supply Chain Optimization, and Full Stack Development
+- **Contact**: gattiuday@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Skills
 
-#### 💻 Development
+#### Development
 <p align="left">
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="40" height="40"/> </a>
@@ -23,7 +23,7 @@ I am a Data & Supply Chain Analyst with a strong background in Computer Science,
   <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 </p>
 
-#### 📈 Data & Cloud
+#### Data & Cloud
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -37,7 +37,7 @@ I am a Data & Supply Chain Analyst with a strong background in Computer Science,
 
 ---
 
-### 🏆 Certifications
+### Certifications
 - **Google Data Analytics Professional Certificate**
 - **IBM Data Analyst Professional Certificate**
 - **Microsoft Certified: Power BI Data Analyst Associate**
@@ -45,17 +45,12 @@ I am a Data & Supply Chain Analyst with a strong background in Computer Science,
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gattiuday&show_icons=true&theme=radical" alt="Uday Gatti Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gattiuday&show_icons=false&theme=default&hide_border=true" alt="Uday Gatti Stats" />
 </p>
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/gattiuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gattiuday" height="30" width="40" /></a>
-<a href="mailto:gattiuday@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gattiuday@gmail.com" height="30" width="40" /></a>
-<a href="https://gattiuday.github.io/yashu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="30" width="40" /></a>
-</p>
+[Portfolio Website](https://gattiuday.github.io/yashu/)
