@@ -47,8 +47,10 @@ I am a Data & Supply Chain Analyst with a strong background in Computer Science,
 
 ### GitHub Statistics
 
-[![Uday Gatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=gattiuday&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gattiuday&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=gattiuday&show_icons=true&theme=radical" alt="Uday Gatti's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gattiuday&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
