@@ -53,4 +53,4 @@ I am a Data & Supply Chain Analyst with a strong background in Computer Science,
 
 ---
 
-[Portfolio Website](https://gattiuday.github.io/yashu/)
+[Portfolio Website](https://gattiuday.github.io/portfolio/)
