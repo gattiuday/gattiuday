@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3600&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Supply+Chain+Analytics+%7C+Python+%7C+SQL+%7C+Inventory+and+Transport;Most+operations+metrics+answer+a+question+nobody+asked" alt="Supply chain analytics, Python, SQL, inventory and transport" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3600&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Supply+Chain+Analytics+%7C+Python+,+SQL+,+Inventory+and+Transport;Most+operations+metrics+answer+a+question+nobody+asked" alt="Supply chain analytics, Python, SQL, inventory and transport" />
 </p>
 
 ## 👋 Hello, I'm Uday
